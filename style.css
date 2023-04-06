@@ -1,0 +1,76 @@
+body {
+    background-color:antiquewhite;
+    color:darkblue;
+    font-size: 21px;
+    font-family:'Times New Roman', Times, serif; }
+
+.pasta-page{
+    background-color: antiquewhite;
+}
+.main-page {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.recipe-1 {
+    width: 300px;
+    height: 300px;
+    border: 10px inset whitesmoke;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+.recipe-2 {
+    width: 400px;
+    height: 300px;
+    border: 10px inset whitesmoke;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+.recipe-3{
+    width: 425px;
+    height: 300px;
+    border: 10px inset whitesmoke;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+.procedure-1{
+    line-height: 30px;
+}
+
+.procedure-2{
+    line-height: 30px;
+}
+
+.procedure-3{
+    line-height: 30px;
+}
+/* margin, padding, border */
+
+.des-1 {
+    line-height: 30px;
+}
+.des-2 {
+    line-height: 30px;
+}
+.des-3 {
+    line-height: 30px;
+}
+.ing-1 {
+    line-height: 30px;
+}
+.ing-2 {
+    line-height: 30px;
+}
+.ing-3 {
+    line-height: 30px;
+}
+
+
+
+
